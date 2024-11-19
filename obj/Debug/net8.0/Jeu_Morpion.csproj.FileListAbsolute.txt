@@ -1,0 +1,14 @@
+C:\Users\stagiaire\source\repos\Jeu_Morpion\Jeu_Morpion\bin\Debug\net8.0\Jeu_Morpion.exe
+C:\Users\stagiaire\source\repos\Jeu_Morpion\Jeu_Morpion\bin\Debug\net8.0\Jeu_Morpion.deps.json
+C:\Users\stagiaire\source\repos\Jeu_Morpion\Jeu_Morpion\bin\Debug\net8.0\Jeu_Morpion.runtimeconfig.json
+C:\Users\stagiaire\source\repos\Jeu_Morpion\Jeu_Morpion\bin\Debug\net8.0\Jeu_Morpion.dll
+C:\Users\stagiaire\source\repos\Jeu_Morpion\Jeu_Morpion\bin\Debug\net8.0\Jeu_Morpion.pdb
+C:\Users\stagiaire\source\repos\Jeu_Morpion\Jeu_Morpion\obj\Debug\net8.0\Jeu_Morpion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stagiaire\source\repos\Jeu_Morpion\Jeu_Morpion\obj\Debug\net8.0\Jeu_Morpion.AssemblyInfoInputs.cache
+C:\Users\stagiaire\source\repos\Jeu_Morpion\Jeu_Morpion\obj\Debug\net8.0\Jeu_Morpion.AssemblyInfo.cs
+C:\Users\stagiaire\source\repos\Jeu_Morpion\Jeu_Morpion\obj\Debug\net8.0\Jeu_Morpion.csproj.CoreCompileInputs.cache
+C:\Users\stagiaire\source\repos\Jeu_Morpion\Jeu_Morpion\obj\Debug\net8.0\Jeu_Morpion.dll
+C:\Users\stagiaire\source\repos\Jeu_Morpion\Jeu_Morpion\obj\Debug\net8.0\refint\Jeu_Morpion.dll
+C:\Users\stagiaire\source\repos\Jeu_Morpion\Jeu_Morpion\obj\Debug\net8.0\Jeu_Morpion.pdb
+C:\Users\stagiaire\source\repos\Jeu_Morpion\Jeu_Morpion\obj\Debug\net8.0\Jeu_Morpion.genruntimeconfig.cache
+C:\Users\stagiaire\source\repos\Jeu_Morpion\Jeu_Morpion\obj\Debug\net8.0\ref\Jeu_Morpion.dll
