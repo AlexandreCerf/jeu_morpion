@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\bin",
+    "\\bin\\Debug",
+    "\\bin\\Release",
+    "\\Class",
+    "\\Interfaces",
+    "\\obj"
+  ],
+  "SelectedNode": "\\Jeu_Morpion.csproj",
+  "PreviewInSolutionExplorer": false
+}
